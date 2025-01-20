@@ -18,7 +18,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://functional-triangle-ab6.notion.site/12067c35c399809e8b64d033e16f54a0?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://functional-triangle-ab6.notion.site/12067c35c399809e8b64d033e16f54a0?pvs=4"> </a>
+    <div align= "center"> <a href=mailto:khksj0109@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:khksj0109@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
