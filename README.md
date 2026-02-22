@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> FE 개발자입니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 가늘고 길게오래가고픈 개발자를 목표로 하고 있습니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 끊임없이 고민하여 소통의 중요성을 아는 개발자를 목표로 합니다 </div> 
     </div>
     <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2><br>
